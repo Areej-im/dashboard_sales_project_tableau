@@ -5,7 +5,7 @@ The goal is to design a clear and interactive dashboard that helps stakeholders 
 
 ---
 
-## 1. Project Purpose
+## Project Purpose
 
 The purpose of this dashboard is to provide a clean and intuitive view of:
 - Overall yearly performance  
@@ -18,13 +18,13 @@ This dashboard follows a real-world BI workflow similar to what data analysts bu
 
 ---
 
-## 2. Business Requirements
+## Business Requirements
 
 The business requires a sales dashboard that provides an overview of total yearly Sales, Profit, and Quantity, including a comparison between the current year and previous year and showing the year-over-year percentage change. The dashboard should also display monthly trends for each KPI, highlight the highest and lowest months, and include a subcategory comparison for sales and profit. Weekly trends for the current year may be included, showing the weekly values along with an average line and indicating which weeks are above or below the average. The dashboard should also support user interaction through filters.
 
 ---
 
-## 7. Tools Used
+## Tools Used
 - **Tableau Public**
 - **Excel/CSV**
 - **Kittl** for mockup design
@@ -32,19 +32,10 @@ The business requires a sales dashboard that provides an overview of total yearl
 
 ---
 
-## 8. How to View the Dashboard
+## How to View the Dashboard
 
-You can download the `.twbx` Tableau file or use Tableau Public to open it.
+You can view the dashboard directly through Tableau Public:
 
-*(Add the file here when you upload it)*
+Live Dashboard:
 
----
-
-## 9. Key Insights (Example)
-
-Once built, the dashboard can answer:
-- What is the YoY growth in Sales?  
-- Which months had the best/worst performance?  
-- Which subcategories generate the highest Profit?  
-- What regions drive most revenue?  
-
+https://public.tableau.com/views/SalesCustomerDashboards_17639131434500/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
