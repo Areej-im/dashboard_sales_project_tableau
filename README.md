@@ -48,20 +48,6 @@ This dashboard follows a real-world BI workflow similar to what data analysts bu
 
 ---
 
-## 5. Dashboard Design (Mockup → Containers → Final Build)
-
-This project was designed using a UI-first approach:
-
-### **Wireframe**
-A hand-drawn mockup was created to determine:
-- Layout  
-- KPIs placement  
-- Trends section  
-- Subcategory area  
-- Filters panel  
-
----
-
 ## 7. Tools Used
 - **Tableau Public**
 - **Excel/CSV**
