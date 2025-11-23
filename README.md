@@ -20,31 +20,7 @@ This dashboard follows a real-world BI workflow similar to what data analysts bu
 
 ## 2. Business Requirements
 
-### **KPI Overview**
-- Display total yearly **Sales**, **Profit**, and **Quantity**
-- Compare **Current Year vs Previous Year**
-- Show **% change (YoY%)**
-
-### **Monthly Trends**
-- Line chart for Sales, Profit, and Quantity by month
-- Highlight highest & lowest month
-
-### **Subcategory Performance**
-- Compare subcategories for Sales & Profit
-- Use **Bar-in-Bar** or **Side-by-side** chart
-
-### **Regional Summary** *(Optional but recommended)*  
-- Sales by Region  
-- Profit by Region  
-
-### **Weekly Trends** *(Optional)*  
-- Weekly Sales + Average Line  
-- Highlight above/below average
-
-### **Filters**
-- Year filter
-- Sub-Category filter
-- Region filter
+The business requires a sales dashboard that provides an overview of total yearly Sales, Profit, and Quantity, including a comparison between the current year and previous year and showing the year-over-year percentage change. The dashboard should also display monthly trends for each KPI, highlight the highest and lowest months, and include a subcategory comparison for sales and profit. Weekly trends for the current year may be included, showing the weekly values along with an average line and indicating which weeks are above or below the average. The dashboard should also support user interaction through filters.
 
 ---
 
