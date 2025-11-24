@@ -20,7 +20,12 @@ This dashboard follows a real-world BI workflow similar to what data analysts bu
 
 ## Business Requirements
 
+Sales Dashboard
 The business requires a sales dashboard that provides an overview of total yearly Sales, Profit, and Quantity, including a comparison between the current year and previous year and showing the year-over-year percentage change. The dashboard should also display monthly trends for each KPI, highlight the highest and lowest months, and include a subcategory comparison for sales and profit. Weekly trends for the current year may be included, showing the weekly values along with an average line and indicating which weeks are above or below the average. The dashboard should also support user interaction through filters.
+
+
+Customer Dashboard
+The customer dashboard should provide an overview of customer behavior by showing yearly totals for customers, sales per customer, and number of orders for both the current and previous year. It must include monthly customer trends with highlighted highest and lowest months, a distribution of customers by number of orders to reveal loyalty and engagement, and a Top 10 Customers by Profit section with details such as rank, orders, current sales, current profit, and last order date.
 
 ---
 
